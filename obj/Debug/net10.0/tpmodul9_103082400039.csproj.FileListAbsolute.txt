@@ -35,3 +35,4 @@ D:\KULIAH\semester 4\konstruksi PL\tpmodul9_103082400039\tpmodul9_103082400039\o
 D:\KULIAH\semester 4\konstruksi PL\tpmodul9_103082400039\tpmodul9_103082400039\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\KULIAH\semester 4\konstruksi PL\tpmodul9_103082400039\tpmodul9_103082400039\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\KULIAH\semester 4\konstruksi PL\tpmodul9_103082400039\tpmodul9_103082400039\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\KULIAH\semester 4\konstruksi PL\tpmodul9_103082400039\tpmodul9_103082400039\obj\Debug\net10.0\tpmodul9_103082400039.sourcelink.json

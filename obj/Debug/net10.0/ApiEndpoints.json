@@ -1,5 +1,83 @@
 [
   {
+    "ContainingType": "tpmodul9_103082400039.MahasiswaController",
+    "Method": "GetAll",
+    "RelativePath": "api/Mahasiswa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[tpmodul9_103082400039.Mahasiswa, tpmodul9_103082400039, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "tpmodul9_103082400039.MahasiswaController",
+    "Method": "AddMahasiswa",
+    "RelativePath": "api/Mahasiswa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mhs",
+        "Type": "tpmodul9_103082400039.Mahasiswa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "tpmodul9_103082400039.MahasiswaController",
+    "Method": "GetByIndex",
+    "RelativePath": "api/Mahasiswa/{index}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "index",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "tpmodul9_103082400039.Mahasiswa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "tpmodul9_103082400039.MahasiswaController",
+    "Method": "DeleteMahasiswa",
+    "RelativePath": "api/Mahasiswa/{index}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "index",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "tpmodul9_103082400039.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
